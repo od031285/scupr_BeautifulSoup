@@ -6,7 +6,7 @@ It was written to test a hypothetical means of obtaining address details for pub
 
 It uses some standard libraries to scrape that data from the One Scotland Gazetteer. 
 
-No checks have been made on the terms of use of that site for the appropriateness using this test script. Anyone using the script does so accepting libability for their own use of it. 
+It is shared for educational use only. No checks have been made on the terms of use of that site for the appropriateness using this test script. Anyone using the script does so accepting libability for their own use of it. 
 
 The script uses the Sleep() function to introduce a pause of several seconds between requests so as not to adversely affect the ODG web server. 
 
