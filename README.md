@@ -2,7 +2,7 @@
 
 This is a short Python script in Jupyter Notebook and raw python formats. 
 
-It was written to test a hypothetical means of obtaining address details for published (_SC_)ottish (_UPR_)Ns for small lists of UPRNS. 
+It was written to test a hypothetical means of obtaining address details for published (__SC__)ottish (__UPR__)Ns for small lists of UPRNS. 
 
 It uses some standard libraries to scrape that data from the One Scotland Gazetteer. 
 
